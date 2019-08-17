@@ -34,4 +34,5 @@ public class ProxyHandler extends ChannelInboundHandlerAdapter {
     public void exceptionCaught(ChannelHandlerContext ctx, Throwable cause) throws Exception {
         System.out.println("client exception is general");
     }
+
 }
