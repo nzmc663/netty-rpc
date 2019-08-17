@@ -1,0 +1,14 @@
+com\gupaoedu\vip\rpc\consumer\proxy\RpcProxy$MethodInvocation.class
+com\gupaoedu\vip\rpc\protocol\Protocol.class
+com\gupaoedu\vip\rpc\test\ConsumerTest.class
+com\gupaoedu\vip\rpc\provider\ServiceLoader$1.class
+com\gupaoedu\vip\rpc\provider\handler\ServiceHandler.class
+com\gupaoedu\vip\rpc\consumer\proxy\ProxyHandler.class
+com\gupaoedu\vip\rpc\api\bean\Blog.class
+com\gupaoedu\vip\rpc\consumer\proxy\RpcProxy.class
+com\gupaoedu\vip\rpc\provider\ServiceLoader.class
+com\gupaoedu\vip\rpc\provider\service\BlogServiceImpl.class
+com\gupaoedu\vip\rpc\api\service\BlogService.class
+com\gupaoedu\vip\rpc\consumer\proxy\RpcProxy$MethodInvocation$1.class
+com\gupaoedu\vip\rpc\protocol\InvokerProtocol.class
+com\gupaoedu\vip\rpc\test\ProviderTest.class
